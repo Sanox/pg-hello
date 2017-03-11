@@ -20,3 +20,12 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+function personalData() {
+	
+	info = 'Imię:    : ' Mateusz '\n' 
+		   'Nazwisko : ' Dziedzina '\n'
+		   'Szkoła   : ' WSEI ' \n'
+	
+	navigator.notification.alert(info);
+	
+}
